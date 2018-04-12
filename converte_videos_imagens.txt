@@ -1,0 +1,1 @@
+ffmpeg -i trafego1.avi -r 1 -s 608×320 -f image2 tmp-%01d.jpg
